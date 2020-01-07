@@ -1,7 +1,4 @@
-/*
- * Based on Blink_AnalogRead example from: https://github.com/feilipu/Arduino_FreeRTOS_Library
- * Modified by: Frederic Pillon <frederic.pillon (at) st.com>
- */
+
 #include <STM32FreeRTOS.h>
 #include <LPS25HBSensor.h>
 #include <LSM6DSLSensor.h>
